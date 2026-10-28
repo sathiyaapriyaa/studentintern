@@ -373,7 +373,7 @@ function Portal() {
         <div className="header-inner">
           <Link to="/" className="brand">
             <span className="brand-mark">S</span>
-            <span>Intern<span className="brand-accent">Sphere</span></span>
+            <span>Student <span className="brand-accent">Internship Portal</span></span>
           </Link>
 
           <nav>
